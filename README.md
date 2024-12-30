@@ -1,16 +1,21 @@
-# my_school
+# MySchool - Application d'apprentissage mobile
 
-A new Flutter project.
+## Description
+MySchool est une plateforme éducative mobile qui permet aux élèves et à leurs parents de suivre des cours en ligne, participer à des sessions en direct, et suivre la progression scolaire. L'application offre deux interfaces distinctes - une pour les parents et une pour les élèves - avec des fonctionnalités adaptées à chaque profil.
 
-## Getting Started
+## Fonctionnalités Principales 
+- 👨‍👩‍👧‍👦 Double profil : Parent/Élève
+- 📚 Visualisation de cours au format vidéo, texte, présentation
+- ✍️ Exercices interactifs et QCM
+- 🎥 Sessions de cours en direct avec chat
+- 📱 Support du mode hors-ligne
+- 📊 Suivi détaillé de la progression
+- 💬 Communication entre élèves et professeurs
+- 🔔 Système de notifications
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Utilisées
+- **Frontend**: Flutter
+- **Backend**: Firebase (Authentication, Firestore, Storage)
+- **Architecture**: Clean Architecture
+- **State Management**: Provider
+- **UI**: Material Design 3
